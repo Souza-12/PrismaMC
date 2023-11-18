@@ -1,0 +1,6 @@
+name: Lobby
+main: com.br.teagadev.prismamc.lobby.LobbyMain
+authors: [Guilherme Matthew, theo]
+version: 0.0.1
+softdepend: [Commons]
+depend: [Commons]
