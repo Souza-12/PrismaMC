@@ -1,0 +1,5 @@
+name: Login
+main: com.br.teagadev.prismamc.login.LoginMain
+authors: Souza
+version: 0.0.1
+softdepend: [Commons]

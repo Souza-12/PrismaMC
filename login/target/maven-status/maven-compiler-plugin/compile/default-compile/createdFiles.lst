@@ -1,0 +1,9 @@
+com\br\teagadev\prismamc\login\LoginMessages.class
+com\br\teagadev\prismamc\login\manager\captcha\CaptchaManager.class
+com\br\teagadev\prismamc\login\manager\gamer\Gamer$AuthenticationType.class
+com\br\teagadev\prismamc\login\manager\LoginManager.class
+com\br\teagadev\prismamc\login\listener\CaptchaListeners.class
+com\br\teagadev\prismamc\login\manager\gamer\Gamer.class
+com\br\teagadev\prismamc\login\commands\ServerCommand.class
+com\br\teagadev\prismamc\login\listener\GeneralListeners.class
+com\br\teagadev\prismamc\login\LoginMain.class
