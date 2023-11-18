@@ -1,0 +1,5 @@
+name: HungerGames
+main: com.br.teagadev.prismamc.hardcoregames.HardcoreGamesMain
+author: Souza
+version: 0.0.1
+softdepend: [Commons]
