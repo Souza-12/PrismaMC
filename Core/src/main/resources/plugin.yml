@@ -1,0 +1,4 @@
+name: Commons
+main: com.br.teagadev.prismamc.commons.bukkit.BukkitMain
+author: Souza
+version: 0.0.1
