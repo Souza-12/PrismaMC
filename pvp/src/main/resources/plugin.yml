@@ -1,0 +1,5 @@
+name: PvP
+main: com.br.teagadev.prismamc.nowly.pvp.PvPMain
+author: Souza
+version: 0.0.1
+softdepend: [Commons]
