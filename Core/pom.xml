@@ -71,7 +71,7 @@
             <groupId>net.md-5</groupId>
             <artifactId>bungeecord-api</artifactId>
             <version>1.16-R0.4</version>
-            <systemPath>C:/Users/GIL SOUZA/eclipse-workspace/PrismaMC/DEP/FlameCord.jar</systemPath>
+            <systemPath>FlameCord.jar</systemPath>
             <scope>system</scope>
         </dependency>
         <dependency>
